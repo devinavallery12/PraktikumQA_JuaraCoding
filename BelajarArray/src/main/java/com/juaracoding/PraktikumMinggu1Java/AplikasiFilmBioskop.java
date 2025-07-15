@@ -1,4 +1,4 @@
-package com.juaracoding;
+package com.juaracoding.PraktikumMinggu1Java;
 
 import java.util.Scanner;
 
